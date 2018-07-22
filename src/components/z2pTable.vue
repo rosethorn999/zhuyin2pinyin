@@ -1103,6 +1103,7 @@ export default {
 <style scoped>
 table {
   table-layout: fixed;
+  border-collapse: collapse;
 }
 th {
   background-color: black;
@@ -1116,9 +1117,10 @@ tr:hover {
   color: #000;
 }
 td {
-  border: 0px;
+  border-top: 0px;
   border-right: 1px solid #e0e0e0;
   border-bottom: 1px solid #e0e0e0;
+  border-left: 0px;
 }
 td:hover {
   font-weight: bold;
