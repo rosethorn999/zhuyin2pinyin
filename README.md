@@ -7,7 +7,7 @@ _A tool that makes you query conveniently from Zhuyin IME to Pinyin._
 ## Preview
 
 - GIF ![previewDesktop](https://raw.githubusercontent.com/rosethorn999/zhuyin2pinyin/master/previewDesktop.gif)
-- [Demo](https://rosethorn999.github.io/porjects/zhuyin2pinyin)
+- [Demo](https://rosethorn999.github.io/projects/zhuyin2pinyin)
 
 ## Layout guide
 
