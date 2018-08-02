@@ -1,6 +1,6 @@
 <template>
   <div>
-  <table border="1" width="100%" cellspacing="0" cellpadding="0" class="table">
+  <table class="table">
     <tbody @mouseover="hoverX" @mouseout="hoverXOut">
       <tr>
     <th colspan="2">韻母 \ 聲母</th>
@@ -1104,13 +1104,23 @@ export default {
 table {
   table-layout: fixed;
   border-collapse: collapse;
+  width: auto;
 }
+@media only screen and (min-width: 768px) {
+  /* For desktop: */
+  table {
+    width: 100%;
+  }
+}
+
 th {
   background-color: black;
   color: white;
+  border: 1px solid #888;
 }
 tr {
   color: #888;
+  padding: 0px;
 }
 tr:hover {
   background-color: #a3d4404a;
@@ -1121,6 +1131,7 @@ td {
   border-right: 1px solid #e0e0e0;
   border-bottom: 1px solid #e0e0e0;
   border-left: 0px;
+  padding: 0px;
 }
 td:hover {
   font-weight: bold;
