@@ -916,14 +916,14 @@
     <td></td>
     <td></td>
     <td></td>
-    <td>nU</td>
-    <td>lU</td>
+    <td>nü</td>
+    <td>lü</td>
     <td></td>
     <td></td>
     <td></td>
-    <td>jU</td>
-    <td>qU</td>
-    <td>xU</td>
+    <td>jü</td>
+    <td>qü</td>
+    <td>xü</td>
     <td></td>
     <td></td>
     <td></td>
@@ -942,14 +942,14 @@
     <td></td>
     <td></td>
     <td></td>
-    <td>nUe</td>
-    <td>lUe</td>
+    <td>nüe</td>
+    <td>lüe</td>
     <td></td>
     <td></td>
     <td></td>
     <td>jUe</td>
-    <td>qUe</td>
-    <td>xUe</td>
+    <td>qüe</td>
+    <td>xüe</td>
     <td></td>
     <td></td>
     <td></td>
@@ -973,9 +973,9 @@
     <td></td>
     <td></td>
     <td></td>
-    <td>jUan</td>
-    <td>qUan</td>
-    <td>xUan</td>
+    <td>jüan</td>
+    <td>qüan</td>
+    <td>xüan</td>
     <td></td>
     <td></td>
     <td></td>
@@ -999,8 +999,8 @@
     <td></td>
     <td></td>
     <td></td>
-    <td>jUn</td>
-    <td>qUn</td>
+    <td>jün</td>
+    <td>qün</td>
     <td>xUn</td>
     <td></td>
     <td></td>
